@@ -1,0 +1,12 @@
+PYTHON DATA PROCESSING — TASK 9
+Summary Statistics
+------------------
+Total records: 10
+Average marks: 83.80
+Highest marks: 95
+Lowest marks: 68
+Average attendance: 87.80%
+Average age: 20.00 years
+
+High performers (marks >= 85):
+Aarav (86), Diya (91), Ananya (88), Meera (95), Sana (90)
